@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourclientdomain.com/sitemap.xml
+Sitemap: https://khadeema-e-fatima.vercel.app/sitemap.xml
